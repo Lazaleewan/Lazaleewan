@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi guys, let's get to work 👋
 
 <!--
 **Lazaleewan/Lazaleewan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
